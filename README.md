@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1fdz_GZ185oH00POWkjG4v2VE4m4bzuoS/view?usp=shari
 
 ![Captura de pantalla 2023-06-14 214842](https://github.com/SpanishFreddy/Sanic-Spin-2006-Decomp/assets/121837347/0bfe8db0-bb57-4490-9874-4a66d15f371b)
 
-I made the final level because original was broken. (You can edit the levels in Unity Editor)
+I remade the final level because original was broken. (You can edit the levels in Unity Editor)
 
 Here the decompilation repo:
 https://github.com/SpanishFreddy/Sanic-Spin-2006-Decomp
