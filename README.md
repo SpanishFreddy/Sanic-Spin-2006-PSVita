@@ -16,8 +16,6 @@ I made the final level because original was broken. (You can edit the levels in 
 Here the decompilation repo:
 https://github.com/SpanishFreddy/Sanic-Spin-2006-Decomp
 
-![Captura de pantalla 2023-06-14 214904](https://github.com/SpanishFreddy/Sanic-Spin-2006-Decomp/assets/121837347/029bba3f-4921-47b3-8e6a-b6b38108a028)
-
 Controlls:
 
 Joysticks: Move and Camera
